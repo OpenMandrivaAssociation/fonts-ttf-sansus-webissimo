@@ -61,3 +61,10 @@ EOF
 %verify(not mtime) %{_datadir}/fonts/TTF/sansus-webissimo/fonts.dir
 %{_xfontdir}/TTF/sansus-webissimo/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-sansus-webissimo:pri=50
+
+
+%changelog
+* Wed Dec 14 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 20110518-1
++ Revision: 741143
+- imported package fonts-ttf-sansus-webissimo
+
