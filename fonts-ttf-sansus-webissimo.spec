@@ -3,7 +3,7 @@
 Summary:	Sansus Webissimo serif font family
 Name:		fonts-ttf-sansus-webissimo
 Version:	20110518
-Release:	1
+Release:	2
 License:	Creative Commons Attribution
 Group:		System/Fonts/True type
 URL:		http://openfontlibrary.org/font/sansus-webissimo
