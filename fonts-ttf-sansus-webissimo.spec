@@ -6,7 +6,7 @@ Version:	20110518
 Release:	2
 License:	Creative Commons Attribution
 Group:		System/Fonts/True type
-URL:		http://openfontlibrary.org/font/sansus-webissimo
+URL:		https://openfontlibrary.org/font/sansus-webissimo
 Source0:	%{pkgname}.zip
 BuildArch:	noarch
 BuildRequires:	freetype-tools
